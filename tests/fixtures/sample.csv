@@ -1,0 +1,3 @@
+name,notes,status,Customer ID,Customer Name,email,alt_email,code,code,extra
+Ada,,active,1,Ada Lovelace,ada@example.com,ada@example.com,A,A,A
+Grace,,active,2,Grace Hopper,grace@example.org,grace@example.org,B,B,B
