@@ -1,6 +1,6 @@
 # CSV_Tidy
 
-Clean up CSV and TSV files by removing unhelpful columns. Shared cleanup engine powers a CLI and a desktop GUI.
+Clean up CSV and TSV files by removing unhelpful columns. .
 
 ## Install
 
